@@ -1,9 +1,12 @@
+// Marianne Buchanan
+// Homework 04
+
 import java.util.Random;
 import java.util.Scanner;
 
 public class RockPaperScissors {
     public static void main(String args[]) {
-        // Arrays of moves: move name, beaten by 
+        
         String[][] moves = { { "rock", "paper", },
                 { "scissors", "rock", },
                 { "paper", "scissors", },
